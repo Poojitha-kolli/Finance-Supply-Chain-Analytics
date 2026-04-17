@@ -28,4 +28,6 @@ To leverage MySQL for analyzing AtliQ Hardware’s financial and supply chain da
 
 ## Conclusion
 
-**The AtliQ Hardware:** Finance & Supply Chain Analytics project delivers valuable business insights through robust MySQL-based data analysis. It enhances understanding of sales performance, customer behavior, and market dynamics while also improving supply chain efficiency through forecast evaluation. This data-driven approach empowers AtliQ Hardware to make informed strategic decisions, optimize operations, and support sustainable business growth.
+**The AtliQ Hardware:** Finance & Supply Chain Analytics project delivers valuable business insights through robust MySQL-based data analysis. It enhances understanding of sales performance, customer behavior, and market dynamics while also improving supply chain efficiency through forecast evaluation. 
+
+This data-driven approach empowers AtliQ Hardware to make informed strategic decisions, optimize operations, and support sustainable business growth.
