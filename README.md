@@ -10,19 +10,19 @@ To leverage MySQL for analyzing AtliQ Hardware’s financial and supply chain da
 
 ## Highlights
 
-- [#Top 5 Markets by Net Sales]: Generated a report to identify the top 5 markets by net sales in fiscal year 2021, highlighting India, USA, and South Korea as major revenue contributors
+- **Top 5 Markets by Net Sales:** Generated a report to identify the top 5 markets by net sales in fiscal year 2021, highlighting India, USA, and South Korea as major revenue contributors
 
-- Monthly Gross Sales Report: Created a monthly gross sales report for Croma India, enabling tracking of sales trends across different months and years
+- **Monthly Gross Sales Report:** Created a monthly gross sales report for Croma India, enabling tracking of sales trends across different months and years
 
-- Customer Net Sales % Report: Generated a report showing customer-wise net sales and their percentage contribution within each region, providing insights into customer impact on revenue
+- **Customer Net Sales % Report:** Generated a report showing customer-wise net sales and their percentage contribution within each region, providing insights into customer impact on revenue
 
-- Regional Market Analysis: Analyzed region-wise performance (APAC, etc.), identifying top customers contributing to overall regional sales
+- **Regional Market Analysis:** Analyzed region-wise performance (APAC, etc.), identifying top customers contributing to overall regional sales
 
-- Forecast Accuracy Analysis: Calculated forecast accuracy for FY 2021 by comparing actual sales vs forecasted quantities, including error % and accuracy metrics
+- **Forecast Accuracy Analysis:** Calculated forecast accuracy for FY 2021 by comparing actual sales vs forecasted quantities, including error % and accuracy metrics
 
-- Supply Chain Forecasting: Provided forecasts for supply chain trends, helping AtliQ Hardware optimize inventory management and reduce excess stock.
+- **Supply Chain Forecasting:** Provided forecasts for supply chain trends, helping AtliQ Hardware optimize inventory management and reduce excess stock.
   
-- SQL Query Integration: Used CTEs, joins, aggregations, and window functions to calculate key metrics like net sales, percentage share, and forecast accuracy
+- **SQL Query Integration:** Used CTEs, joins, aggregations, and window functions to calculate key metrics like net sales, percentage share, and forecast accuracy
 
 --- 
 
