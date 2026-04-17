@@ -10,7 +10,7 @@ To leverage MySQL for analyzing AtliQ Hardware’s financial and supply chain da
 
 ## Highlights
 
-- Top 5 Markets by Net Sales: Generated a report to identify the top 5 markets by net sales in fiscal year 2021, highlighting India, USA, and South Korea as major revenue contributors
+- [#Top 5 Markets by Net Sales]: Generated a report to identify the top 5 markets by net sales in fiscal year 2021, highlighting India, USA, and South Korea as major revenue contributors
 
 - Monthly Gross Sales Report: Created a monthly gross sales report for Croma India, enabling tracking of sales trends across different months and years
 
